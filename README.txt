@@ -1,1 +1,0 @@
-Használtam AI-t a projektben leginkább debugging hoz, a github repot utólag hoztam létre, nálam működött a kód teljesen, express és mysql2-t használtam
